@@ -1,0 +1,32 @@
+.main-nav {
+  margin: 0;
+  padding: 0;
+  position: absolute;
+  right: 0;
+  top: 6em;
+  width: 40%;
+}
+
+.main-nav li {
+  display: inline-block;
+  text-transform: uppercase;
+  width: 25%;
+}
+
+.main-nav a:link {
+  color: #754b23;
+  text-decoration: none;
+}
+
+.main-nav a:visited {
+  color: #754b23;
+  text-decoration: none;
+}
+
+.main-nav a:hover {
+  color: #906f4d;
+}
+
+.main-nav a:active {
+  color: #906f4d;
+}
