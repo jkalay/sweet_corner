@@ -1,0 +1,20 @@
+.about-main {
+  display: table-cell;
+  font-family: Helvetica, Arial, sans-serif;
+  width: 55%;
+}
+
+.about-sidebar {
+  background-image: url("../../assets/images/strips1.png");
+  background-position: right top;
+  background-repeat: repeat-y;
+  display: table-cell;
+  position: relative;
+  width: 45%;
+
+  img {
+    position: absolute;
+    left: 15%;
+    top: 15%;
+  }
+}
