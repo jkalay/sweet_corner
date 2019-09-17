@@ -23,6 +23,7 @@ freshness and flavor just for you.</p>
         <p>Their delicious taste, great variety and their sweet universe, colorful and flavorful
 cupcakes make the best choice for a chic desert. How could you resist these
 delicious cupcakes?</p>
+        <div className="disclaimer">Sweet Corner is fictional. This is for demonstration purposes only.</div>
       </main>
       <aside className="sidebar">
         <img src={DotsBox} />
