@@ -2,6 +2,7 @@
   "name": "sweet_corner",
   "version": "1.1.0",
   "description": "Sweet Corner bakery project. For testing purposes only.",
+  "homepage": "https://dev.jackdev.tech/sweet_corner/",
   "main": "index.js",
   "scripts": {
     "start": "node dev_server.js",
